@@ -9,10 +9,27 @@
       integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
       crossorigin="anonymous"
     />
-
     <link href="./style.css" rel="stylesheet" />
   </head>
   <body>
+    <div class="container">
+      <h2>Todo List</h2>
+      <form>
+        Todo
+        <input
+          type="text"
+          name="todoText"
+          class="text"
+          placeholder="Please Enter a todo"
+        />
+        Id <input type="number" name="id" class="id-input" value="1" />
+        <input name="completed" type="checkbox" class="check-check" /><br />
+        <input type="button" value="Add Todo" id="add-todo" />
+        <input type="button" value="Get Todos" id="get-todos" />
+        <input type="button" value="Get Todo by Id" id="get-todo" />
+      </form>
+      <div id="root" class="root"></div>
+    </div>
     <script type="module" src="./src/init.js"></script>
   </body>
 </html>
