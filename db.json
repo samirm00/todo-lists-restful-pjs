@@ -69,11 +69,6 @@
       "todoText": "first todo",
       "completed": false,
       "id": 14
-    },
-    {
-      "todoText": "The last to do",
-      "completed": true,
-      "id": 15
     }
   ]
 }
