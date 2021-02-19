@@ -77,7 +77,7 @@ A refactor of the Practical JavaScript Todo List
 
 ## 2. create a class Todo
 
-**As a user I want to be able to update , delete and check todos**
+**As a user I want to be able to update , delete and (un)check todos**
 
 - _acceptance criteria_
 - _acceptance criteria_
@@ -104,7 +104,7 @@ A refactor of the Practical JavaScript Todo List
 
 ---
 
-## 3- add to do
+## 3- add todo
 
 **As a user I want to be able to add a todo to the list**
 
@@ -206,7 +206,7 @@ A refactor of the Practical JavaScript Todo List
 
 ---
 
-## 5- init
+## 6- init
 
 **As a user I want to be to see a complete application with style**
 
