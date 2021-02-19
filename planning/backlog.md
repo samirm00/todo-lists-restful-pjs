@@ -6,15 +6,17 @@ A collection of user stories you can choose from. Stories inside of each priorit
 
 > these are necessary for basic usability
 
-- [ ] A user can create a new empty list with any title
+- [ ] A user can add todo to the list
   - _acceptance criteria ..._
-- [ ] A user can remove any list from the manager
+- [ ] A user can get all todos
   - _acceptance criteria ..._
-- [ ] A user can add items to each list instance
+- [ ] A user get one todo using todo id
   - _acceptance criteria ..._
-- [ ] A user can remove items from each list instance
+- [ ] A user can modify todo
   - _acceptance criteria ..._
-- [ ] A user can update items in each list instance
+- [ ] A user can check and uncheck todo
+  - _acceptance criteria ..._
+  - [ ] A user can delete a todo
   - _acceptance criteria ..._
 
 ## Should-Haves
