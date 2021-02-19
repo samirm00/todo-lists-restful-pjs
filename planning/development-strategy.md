@@ -172,7 +172,7 @@ A refactor of the Practical JavaScript Todo List
 
 ---
 
-## 5- get ome todo
+## 5- get one todo by id
 
 **As a user I want to be able to get a specific todo in the list**
 
