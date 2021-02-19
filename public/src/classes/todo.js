@@ -6,7 +6,7 @@
  * PATCH todo
  * DELETE todo
  * GET todo
- * FET todos
+ * GET todos
  * Update todo
  */
 
